@@ -98,3 +98,4 @@ fastlane/readme.md
 *.out
 *.synctex.gz
 *.pdf
+guide/images/
